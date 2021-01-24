@@ -1,0 +1,16 @@
+.emaily {
+  box-sizing: content-box;
+  font-style: italic;
+  color: #edf2fb !important;
+  margin-left: 4px;
+}
+.emaily:hover {
+  transform: rotateY(360deg);
+  transition: all 2s ease-in-out;
+}
+.emaily::selection {
+  background-color: blanchedalmond;
+}
+.credits {
+  margin: 0 10px;
+}
