@@ -4,4 +4,4 @@ this web app will send surveys  via emails to your customers and will return the
 
 due to US sanctions i was unable to finish this project so right now it can't send email to anybody 
 
-(https://warm-brushlands-29210.herokuapp.com/)[The app overview]
+(The App oveview)[https://warm-brushlands-29210.herokuapp.com/]
